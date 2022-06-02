@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -d, - - | cut -d, -f1
+cat -n | [13579][[:space;]] | tr -s ' ' | cut -f2
